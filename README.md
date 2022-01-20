@@ -21,7 +21,7 @@ docker pull crackair/xrayr:latest && docker run --restart=always --name xrayr -d
 ```
 
 # Cài đặt Docker-compile
-0. 安装docker-compose: 
+0. Cài Đặt docker-compose: 
 ```
 curl -fsSL https://get.docker.com | bash -s docker
 curl -L "https://github.com/docker/compose/releases/download/1.26.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
@@ -29,9 +29,9 @@ chmod +x /usr/local/bin/docker-compose
 ```
 1. `git clone https://github.com/XrayR-project/XrayR-release`
 2. `cd XrayR-release`
-3. 编辑config。
-配置文件基本格式如下，Nodes下可以同时添加多个面板，多个节点配置信息，只需添加相同格式的Nodes item即可。
-4. 启动docker：`docker-compose up -d`
+3.Chỉnh sửa cấu hình.
+Định dạng cơ bản của tệp cấu hình như sau. Nhiều bảng và nhiều thông tin cấu hình nút có thể được thêm vào cùng một lúc trong Nodes, chỉ cần thêm các mục Nodes ở cùng một định dạng.
+4. bắt đầu docker：`docker-compose up -d`
 ```
 Log:
   Level: none # Log level: none, error, warning, info, debug 
