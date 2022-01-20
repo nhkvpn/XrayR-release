@@ -43,6 +43,7 @@ chmod +x /usr/local/bin/docker-compose
 ```
 1. `git clone https://github.com/herotbty/Aiko-XrayR`
 2. `cd Aiko-XrayR`
+
 3.Chỉnh sửa cấu hình.
 Định dạng cơ bản của tệp cấu hình như sau. Nhiều bảng và nhiều thông tin cấu hình nút có thể được thêm vào cùng một lúc trong Nodes, chỉ cần thêm các mục Nodes ở cùng một định dạng.
 4. bắt đầu docker：`docker-compose up -d`
