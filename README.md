@@ -7,7 +7,7 @@ Tìm mã nguồn tại đây: [XrayR-project/XrayR](https://github.com/XrayR-pro
 
 # Hướng dẫn chi tiết
 
-[hướng dẫn](https://crackair.gitbook.io/xrayr-project/)
+[hướng dẫn](https://crackair.gitbook.io/xrayr-project/) < Tiếng Tàu Khựa>
 
 # Một cài đặt chính
 
