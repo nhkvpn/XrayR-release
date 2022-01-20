@@ -12,7 +12,7 @@ Tìm mã nguồn tại đây: [XrayR-project/XrayR](https://github.com/XrayR-pro
 # Một cài đặt chính
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/herotbty/Aiko-XrayR/install/install.sh)
 ```
 # Cài đặt Docker
 
@@ -27,7 +27,7 @@ curl -fsSL https://get.docker.com | bash -s docker
 curl -L "https://github.com/docker/compose/releases/download/1.26.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 chmod +x /usr/local/bin/docker-compose
 ```
-1. `git clone https://github.com/XrayR-project/XrayR-release`
+1. `git clone https://github.com/herotbty/Aiko-XrayR`
 2. `cd XrayR-release`
 3.Chỉnh sửa cấu hình.
 Định dạng cơ bản của tệp cấu hình như sau. Nhiều bảng và nhiều thông tin cấu hình nút có thể được thêm vào cùng một lúc trong Nodes, chỉ cần thêm các mục Nodes ở cùng một định dạng.
