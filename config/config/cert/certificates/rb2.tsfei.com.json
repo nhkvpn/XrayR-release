@@ -1,0 +1,5 @@
+{
+	"domain": "rb2.tsfei.com",
+	"certUrl": "https://acme-v02.api.letsencrypt.org/acme/cert/0496ab01525f9b142119c10bfc9ab22893b4",
+	"certStableUrl": "https://acme-v02.api.letsencrypt.org/acme/cert/0496ab01525f9b142119c10bfc9ab22893b4"
+}
