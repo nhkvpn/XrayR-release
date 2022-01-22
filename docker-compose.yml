@@ -3,7 +3,6 @@ services:
   xrayr: 
     image: crackair/xrayr:latest
     volumes:
-      - ./config.yml:/etc/XrayR/config.yml 
-      - ./dns.json:/etc/XrayR/dns.json 
+      - ./config:/etc/XrayR/ # AikoCuteHotme
     restart: always
     network_mode: host
