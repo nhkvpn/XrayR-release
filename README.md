@@ -55,7 +55,7 @@ chmod +x /usr/local/bin/docker-compose
 ```
 docker-compose up -d
 ```
-
+File Config Của XrayR cho sever Việt Nam < AikoCuteHotMe>
 ```
 Log:
   Level: none # Log level: none, error, warning, info, debug 
