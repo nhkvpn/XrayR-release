@@ -7,7 +7,7 @@ Tìm mã nguồn tại đây: [herotbty/XrayR](https://github.com/herotbty/XrayR
 
 # Hướng dẫn chi tiết
 
-[hướng dẫn](https://herotbty.gitbook.io/aikoxrayr/) < Tiếng Tàu Khựa>
+[hướng dẫn](https://herotbty.gitbook.io/aikoxrayr/) < Tiếng Việt>
 
 # Một cài đặt chính
 
