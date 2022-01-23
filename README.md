@@ -76,7 +76,7 @@ Nodes:
     ApiConfig:
       ApiHost: "https://aikocute.com"
       ApiKey: "adminadminadminadminadmin"
-      NodeID: 41
+      NodeID: 1
       NodeType: V2ray # Node type: V2ray, Trojan, Shadowsocks, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type
